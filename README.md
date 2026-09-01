@@ -1,4 +1,4 @@
-# AeroAcoustix — InnovAero Competition 2026
+# AeroAcoustix, InnovAero Competition 2026
 
 ## Designing the VIP Cabin of the Future
 
