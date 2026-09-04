@@ -5,7 +5,7 @@
 ### InnovAero Competition 2026 — Lufthansa Technik 
 
 **A Frequency-Targeted Passive–Active Design for a VIP Compartment**
-**Beside a Wing-Mounted Turbofan**
+**Beside a Wing-Mounted Turbofan** 
 
 _From engine source to passenger ear in a CFRP wide-body at cruise, with independent 3-D validation_
 
@@ -101,7 +101,7 @@ same tool used for sensitivity analysis, Monte-Carlo uncertainty propagation, an
 | **Yash Bhake** | IIT Bombay | B.Tech Mechanical | Materials, Certification Basis, In-Service Anchoring |
 | **Tushar Kumar** | Delhi Technological University | B.Des Industrial Design | CAD Model & Integration Concept (Fusion 360) |
 
-Contact: tusharmishra0710@gmail.com · mp.mohnish@gmail.com · yashbhake1@gmail.com · tusharkr561@gmail.com
+Contact: tusharmishra0710@gmail.com · mp.mohnish@gmail.com · yashbhake1@gmail.com · tusharkr561@gmail.com 
 
 ---
 
