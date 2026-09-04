@@ -2,7 +2,7 @@
 
 # AeroAcoustix
 
-### InnovAero Competition 2026 — Lufthansa Technik
+### InnovAero Competition 2026 — Lufthansa Technik 
 
 **A Frequency-Targeted Passive–Active Design for a VIP Compartment**
 **Beside a Wing-Mounted Turbofan**
