@@ -33,7 +33,7 @@ Every prediction is cross-checked against an **independent 3-D wave solution**, 
 
 ---
 
-## 🎯 Key Results
+## Key Results
 
 | Configuration                          | Seated (dBA) | Reclined (dBA) | Added Mass |
 | -------------------------------------- | :----------: | :------------: | :--------: |
@@ -42,7 +42,7 @@ Every prediction is cross-checked against an **independent 3-D wave solution**, 
 | **T2 — Proposed passive build-up**     |   **67.3**   |    **70.6**    |   238 kg   |
 | **T2 + Headrest Active Noise Control** |   **60.2**   |    **62.7**    |   238 kg   |
 
-> 🎧 The final hybrid design is **~8.4× quieter** than the untreated cabin at the seated position, with the
+> The final hybrid design is **~8.4× quieter** than the untreated cabin at the seated position, with the
 > blade-passage tone rendered fully inaudible.
 
 **Design targets:** 55 dBA seated (business-jet benchmark) · 45 dBA reclined (WHO night-noise guidance + 5 dB margin)
@@ -79,7 +79,7 @@ Each subfolder contains its own detailed `README.md` describing individual files
 The compartment was modelled in **Autodesk Fusion 360** inside an A350-type fuselage section — including the
 layered sidewall build-up, floor deck, partitions, sliding door, furniture, and the Smart Cabin Management System UI.
 
-🔗 **Interactive 3D Model (A360):** `[ https://a360.co/44GbDCQ]`
+**Interactive 3D Model (A360):** `[ https://a360.co/44GbDCQ]`
 
 ---
 
@@ -88,11 +88,11 @@ layered sidewall build-up, floor deck, partitions, sliding door, furniture, and 
 All acoustic results in the report are produced by a single, open-source Python model (`model.py`) — the
 same tool used for sensitivity analysis, Monte-Carlo uncertainty propagation, and the on-site recalculation exercise.
 
-🔗 **GitHub Source Code:** [tusharr-mishra/AeroAcoustix-InnovAero-2026](https://github.com/tusharr-mishra/AeroAcoustix-InnovAero-2026)
+**GitHub Source Code:** [tusharr-mishra/AeroAcoustix-InnovAero-2026](https://github.com/tusharr-mishra/AeroAcoustix-InnovAero-2026)
 
 ---
 
-## 👥 Team
+## Team
 
 | Name | Institution | Programme | Principal Contribution |
 |---|---|---|---|
@@ -101,11 +101,11 @@ same tool used for sensitivity analysis, Monte-Carlo uncertainty propagation, an
 | **Yash Bhake** | IIT Bombay | B.Tech Mechanical | Materials, Certification Basis, In-Service Anchoring |
 | **Tushar Kumar** | Delhi Technological University | B.Des Industrial Design | CAD Model & Integration Concept (Fusion 360) |
 
-📧 Contact: tusharmishra0710@gmail.com · mp.mohnish@gmail.com · yashbhake1@gmail.com · tusharkr561@gmail.com
+Contact: tusharmishra0710@gmail.com · mp.mohnish@gmail.com · yashbhake1@gmail.com · tusharkr561@gmail.com
 
 ---
 
-## 📌 Status
+## Status
 
 > This repository is under active development as part of an ongoing competition submission.
 > Assets, models, and documentation will continue to be refined.
