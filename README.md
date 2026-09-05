@@ -97,7 +97,7 @@ same tool used for sensitivity analysis, Monte-Carlo uncertainty propagation, an
 | Name | Institution | Programme | Principal Contribution |
 |---|---|---|---|
 | **Tushar Mishra** *(Head)* | Amity University, Noida | B.Tech CSE | Acoustic Modelling, Numerical Cross-Checks, Report Production |
-| **Mohnish Murugan** | IIT Madras | B.Tech Aerospace | Acoustic Model, Calculation Chain, Verification |
+| **Mohnish Murugan** | IIT Madras | B.Tech Aerospace Engineering | Acoustic Model, Calculation Chain, Verification |
 | **Yash Bhake** | IIT Bombay | B.Tech Mechanical | Materials, Certification Basis, In-Service Anchoring |
 | **Tushar Kumar** | Delhi Technological University | B.Des Industrial Design | CAD Model & Integration Concept (Fusion 360) |
 
